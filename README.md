@@ -2,6 +2,10 @@
 **Objective**  
 Build and evaluate an object-detection model to identify healthy vs. diseased tomato leaves. Achieve Box Precision & mAP@50 ≥ 0.75 and compare performance with Fourier-domain loss augmentation.
 
+## 🎬 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/x10fokG43Aw/0.jpg)](https://youtu.be/x10fokG43Aw)
+
 ---
 
 ## 📂 Data  
