@@ -16,4 +16,3 @@ Build and evaluate an object-detection model to identify healthy vs. diseased to
 
 ```bash
 # Requires Python 3.8+
-pip install -r requirements.txt
